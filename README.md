@@ -25,3 +25,6 @@ Digital-Clock/
 └── index.html
 
 #screenshots
+## 📸 Screenshot
+
+<img src="time.png" alt="Digital Clock Screenshot" width="600">
