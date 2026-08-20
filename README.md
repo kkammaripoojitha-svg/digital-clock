@@ -26,4 +26,4 @@ Digital-Clock/
 
 #Screenshots
 
- <img src="time.png" alt="Digital Clock Screenshot" width="600">
+ <img src="time.png.png" alt="Digital Clock Screenshot" width="600">
